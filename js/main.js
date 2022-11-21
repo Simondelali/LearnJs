@@ -29,3 +29,14 @@ const add = (n1 , n2) => {
     return n1 + n2
 }
 console.log(add(2,67))
+
+const james = 22
+const valerie = 25
+const kenneth = 27
+
+const age = 20
+if (age < james){
+    console.log('You are younger than James')
+}else{
+    console.log(`You're not younger than James`)
+}
