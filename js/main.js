@@ -34,9 +34,18 @@ const james = 22
 const valerie = 25
 const kenneth = 27
 
-const age = 20
+const age = 26
 if (age < james){
     console.log('You are younger than James')
-}else{
+}
+else if (age > valerie){
+    console.log(`You're older than Valerie`)
+   
+}
+else{
     console.log(`You're not younger than James`)
 }
+console.log(!false)
+
+const firstHuman = document.querySelector('li')
+console.log(firstHuman) // <li>Gandalf</li>
