@@ -18,7 +18,7 @@ sayName('Your name is simon Atiegar')
 
 const ten = () => 10
 const Ten = _ => 10
-console.log(ten(),Ten())
+console.log(ten(),Ten())  
 
 const logger = (param) => {
     console.log(param)
