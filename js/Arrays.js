@@ -1,0 +1,1 @@
+const emptyArray = ['cabbage','tomato sauce','salmon']
