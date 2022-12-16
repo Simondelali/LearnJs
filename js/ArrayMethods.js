@@ -46,5 +46,12 @@ console.log(spliceArray)
 spliceArray.splice(0,3)
 console.log(spliceArray)
 
+//Making a copy of an array
+//You can make a copy of an array with slice
+
+const copy =  array.slice()
+copy.push(45)
+console.log(copy)
+
 
 
