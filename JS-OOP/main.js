@@ -1,9 +1,9 @@
 const circle = {
     radius:1,
     location : {
-        x:1,
+        x:1,     
         y:2
-    },
+    },   
     draw: function(){
         console.log('Draw')
     }
