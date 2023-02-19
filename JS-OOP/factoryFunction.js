@@ -16,4 +16,4 @@ function Circle(radius){
         console.log('draw');
     }
 }
-const another = Circle(1);
+const another = new Circle(1);
